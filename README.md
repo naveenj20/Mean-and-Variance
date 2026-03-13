@@ -79,7 +79,7 @@ print("Standard deviation =", round(sd,3))
 
 # Output : 
 
-
+![Screenshot](ss_1.png)
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
